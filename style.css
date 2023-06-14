@@ -1,0 +1,42 @@
+
+body {
+    font-family: 'Roboto', sans-serif;;
+}
+
+
+.slide-img {
+    height: 350px;
+}
+
+.bg-slide {
+    background-color: #FEEAE9;
+    
+}
+
+.item-price {
+    color: #FF3584;
+}
+
+
+.btn-buy-now {
+    background-color: #FF3584;
+}
+
+.category-img {
+    height: 120px;
+}
+
+.category-color-1 {
+    background: #FFA500;
+
+}
+
+.category-color-2 {
+    background: #DA70D6;
+
+}
+
+.category-color-3 {
+    background: #0000FF;
+
+}
